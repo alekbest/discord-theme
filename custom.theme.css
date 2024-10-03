@@ -6,7 +6,7 @@
  * @source https://github.com/alekbest/discord-theme
 */
 
-@import url("https://github.com/alekbest/discord-theme/blob/main/theme.css");
+@import url("https://raw.githubusercontent.com/alekbest/discord-theme/refs/heads/main/theme.css");
 
 :root {
   --background: url("https://so1ta.github.io/Images/USP.jpg");
