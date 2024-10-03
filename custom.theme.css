@@ -3,10 +3,10 @@
  * @author ALEK
  * @version 1.0.0
  * @description TEMA TOP
- * @source C:/FilesCode/DiscordTheme1/theme.css
+ * @source https://github.com/alekbest/discord-theme
 */
 
-@import url("C:/FilesCode/DiscordTheme1/theme.css");
+@import url("https://github.com/alekbest/discord-theme/blob/main/theme.css");
 
 :root {
   --background: url("https://so1ta.github.io/Images/USP.jpg");
